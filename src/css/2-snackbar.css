@@ -1,0 +1,12 @@
+.form {
+    max-width: 400px;
+    padding: 20px;
+  }
+  
+
+.iziToast {
+    max-width: 350px !important;
+    top: 20px !important;
+    right: 20px !important;
+}
+  
